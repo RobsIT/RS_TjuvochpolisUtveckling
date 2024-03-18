@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roblo_fjwpcan\\OneDrive\\SYSTEM23 Kurs\\AVSLUTADE KURSER\\2 PROGRAMMERING I .NET C# 1\\Kurs C# kod\\RS_TjuvochpolisUtveckling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55A04E6E-29C9-46BC-B39A-2D15B56CD19F}|TjuvOchPolis\\RS_TjuvochpolisUtveckling.csproj|c:\\users\\roblo_fjwpcan\\onedrive\\system23 kurs\\avslutade kurser\\2 programmering i .net c# 1\\kurs c# kod\\rs_tjuvochpolisutveckling\\tjuvochpolis\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A04E6E-29C9-46BC-B39A-2D15B56CD19F}|TjuvOchPolis\\RS_TjuvochpolisUtveckling.csproj|solutionrelative:tjuvochpolis\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Draw.cs",
+              "DocumentMoniker": "C:\\Users\\roblo_fjwpcan\\OneDrive\\SYSTEM23 Kurs\\AVSLUTADE KURSER\\2 PROGRAMMERING I .NET C# 1\\Kurs C# kod\\RS_TjuvochpolisUtveckling\\TjuvOchPolis\\Draw.cs",
+              "RelativeDocumentMoniker": "TjuvOchPolis\\Draw.cs",
+              "ToolTip": "C:\\Users\\roblo_fjwpcan\\OneDrive\\SYSTEM23 Kurs\\AVSLUTADE KURSER\\2 PROGRAMMERING I .NET C# 1\\Kurs C# kod\\RS_TjuvochpolisUtveckling\\TjuvOchPolis\\Draw.cs",
+              "RelativeToolTip": "TjuvOchPolis\\Draw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T21:41:04.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RS_TjuvochpolisUtveckling/1.0.0": {
+        "runtime": {
+          "RS_TjuvochpolisUtveckling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RS_TjuvochpolisUtveckling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
